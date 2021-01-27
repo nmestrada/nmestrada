@@ -1,9 +1,9 @@
-### Hello There! 🐝
+### Hello There!
 
 I'm a JavaScript/TypeScript Developer learning the ropes of web development. 
 
-What I currently working on is learning:
-  -  Vue.JS
+What I'm currently learning:
+  -  VueJS
   -  Leveling up my vanilla CSS
   -  React Native & mobile development 
   
