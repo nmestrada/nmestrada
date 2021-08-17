@@ -7,4 +7,6 @@ What I'm currently learning:
   -  Leveling up my vanilla CSS
   -  React Native & mobile development 
   -  C#.Net Development
+
+
 I have a long way to go and hope to share knowledge with other developers! My goal this year is to write a blog post, look out internet!
